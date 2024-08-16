@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # PHPBoost YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/phpboost.svg)](https://dash.yunohost.org/appci/app/phpboost) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/phpboost.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/phpboost.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/phpboost.svg)](https://ci-apps.yunohost.org/ci/apps/phpboost/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/phpboost.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/phpboost.maintain.svg)
 
 [![Instalatu PHPBoost YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=phpboost)
 
@@ -18,7 +18,7 @@ EZ editatu eskuz.
 
 PHPBoost allows everyone to create his own website without any particular knowledge required in webmastering.
 
-**Paketatutako bertsioa:** 6.0.3~ynh1
+**Paketatutako bertsioa:** phpboost-6.0.4~ynh1
 
 **Demoa:** <https://demo.phpboost.com/>
 

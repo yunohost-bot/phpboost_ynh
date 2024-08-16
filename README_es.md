@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # PHPBoost para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/phpboost.svg)](https://dash.yunohost.org/appci/app/phpboost) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/phpboost.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/phpboost.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/phpboost.svg)](https://ci-apps.yunohost.org/ci/apps/phpboost/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/phpboost.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/phpboost.maintain.svg)
 
 [![Instalar PHPBoost con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=phpboost)
 
@@ -18,7 +18,7 @@ No se debe editar a mano.
 
 PHPBoost allows everyone to create his own website without any particular knowledge required in webmastering.
 
-**Versión actual:** 6.0.3~ynh1
+**Versión actual:** phpboost-6.0.4~ynh1
 
 **Demo:** <https://demo.phpboost.com/>
 
